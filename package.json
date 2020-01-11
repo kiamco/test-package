@@ -1,0 +1,24 @@
+{
+    "name": "kimmy-test-package",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "shelljs": "^0.8.3"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "create-backend": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kiamco/test-package.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kiamco/test-package/issues"
+    },
+    "homepage": "https://github.com/kiamco/test-package#readme"
+}
